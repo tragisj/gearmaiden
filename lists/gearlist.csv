@@ -1,0 +1,224 @@
+flashlight,pk,true
+hunting license,pk,true
+moose tag,pk,true
+batteries,pk,true
+small carbon fiber tripod,op,true
+large carbon fiber tripod,op,true
+binoculars,op,true
+spotting scope,op,true
+dedicated tripod post,op,true
+spare tripod stud,op,true
+optic cleaning kit,op,true
+gun cleaning kit,rk,true
+rifle,rk,true
+rifle ammo,rk,true
+sidearm,rk,true
+sidearm ammo,rk,true
+skinning knife,gk,true
+skinning pants,gk,true
+wool socks,ck,true
+camp shoes (Keen's),ck,true
+boots (Asolo),ck,true
+extra laces,ck,true
+550 cord,tk,true
+camera,op,true
+extra battery RX100,op,false
+small camera case,op,false
+razor,dk,true
+tar soap,dk,true
+MSR towel,dk,true
+battery USB power,ek,true
+power cable,ek,true
+Sure Fire Rechargable Batteries,ek,false
+Side Pack (Dana Design),pk,true
+Boots For Ian,pk,true
+Knife for Ian,pk,true
+Power Blocks,ek,true
+Spare Buckles,bk,true
+hydration bladder,bk,true
+Nalgene bottles,fk,true
+t-shirts,pk,true
+long underwear,pk,true
+wool hat,pk,true
+gloves,pk,true
+glove liners,pk,true
+box wine (personal),fk,true
+bushcraft knife,pk,true
+first lite pants,pk,true
+first lite vest,pk,true
+Emergency Beacon,sk,true
+Ian's Leatherman,pk,true
+Bore Snake,rk,true
+Sleeping Bag,nk,true
+Sleeping Pad,nk,true
+Pillow,nk,true
+Cairn Lantern,nk,true
+Surefire Flashlight,pk,true
+Ian's Surefire Flashlight,pk,true
+Petzl Headlamp,pk,true
+Space Blanket,bk,true
+Bushcrafter Benchmade,pk,true
+Stryker Benchmade with Lanyard,pk,true
+Zippo lighter,pk,true
+Zippo Hand Warmer,pk,true
+Chemical Hand Warmers,sk,true
+Reactor Stove,fk,true
+MSR Silverware,fk,true
+Ti Cup,fk,true
+Yeti Cozy,fk,false
+Sitka Stormfront Jacket,ck,true
+Fjallravn Pants,ck,true
+OR Gaitors,ck,true
+Patagonia Hat,ck,true
+Oakley with Yellow/Mirrors,op,true
+Contacts,dk,true
+Glasses Primary,dk,true
+Glasses Secondary,sk,true
+Med Kit - Needs Review and Adds,sk,true
+All-Weather Matches,sk,true
+Bic Lighter,fk,true
+Benchmade Sharpener,tk,true
+Hidden Canyon Benchmade,pk,true
+Eberlstock Blue Widow,bk,true
+Meat Frame,bk,false
+Kentucky Bourbon,fk,true
+Pilsner in a can,fk,true
+Climbing Rope,sk,false
+Filson Duffle,bk,true
+AKTT Duffle with Strap,bk,true
+Maxpedition Sling,bk,false
+Pen Light,pk,true
+Pen Light Slip Case,pk,true
+Black Diamond Lantern,pk,true
+Dop Kit Bag,bk,true
+Bandanas,ck,true
+Cabelas Tops,ck,true
+Black Wool Sweater,ck,true
+Wool Briefs,ck,true
+Phone,,pk,true
+Nomad Cable,ek,true
+USB-C Cable,ek,true
+Rifle,rk,true
+Scope Covers,rk,true
+Ruger 44,rk,true
+44 Ammo,rk,true
+Filson Cruiser,ck,true
+Fjallravn Jacket,ck,true
+Cabelas Rain Jacket and Pants,ck,true
+Ammo,rk,true
+Web Belt,ck,true
+Tea,fk,true
+Ti Coffee Press,fk,true
+Tea Basket,fk,true
+Wallet,pk,true
+Keys and Lanyard,pk,true
+Chem Lights,sk,true
+Poop Dirt Scoop,pk,false
+TP in Bag,pk,true
+Alcohol Cleaner,pk,true
+Alcohol Wipes,pk,true
+Leather Gloves,pk,true
+Mechanic Gloves,tk,true
+Sleeping Shorts,nk,false
+AA Batteries,ek,true
+Burts Bees Hand Balm,pk,true
+Burts Bees ResQ ointment,pk,true
+Burts Bees lip balm,pk,true
+Dermatone Wind Cream tin,pk,true
+Maxpedition Small Dop Kit,pk,true
+Pen,pk,true
+Notepad (Field Notes),pk,true
+birds card,pk,true
+Small Ruler (Metric too),tk,true
+Phone Numbers On Paper,pk,true
+Micro fiber cloths,tk,true
+Concentrate Simple Green,tk,true
+Citrus Wipes,tk,true
+Benchmade Tool Kit,tk,true
+Gut Knife,gk,true
+Swiss Army Knife,pk,false
+Chocolate Bars - High Cocao,fk,true
+Iso Fuel Canisters,fk,true
+Hot Soup Mix,fk,true
+Onion Soup Mix for Cooking,fk,true
+AAA Batteries,ek,true
+CA123 Batteries - Cradle,ek,true
+Range Finder,op,true
+Swarovski Binos,op,true
+Swarovski Scope,op,true
+Scope Case,op,true
+Scope Covers,op,true
+Kowa Bino System,op,true
+Flagging Tape,sk,true
+Book to Read,pk,true
+Rino Radio 755t,ek,true
+Rino 755t Alkaline Pack,ek,true
+Rino Radio 130,ek,true
+rubber bands,tk,true
+Wood Spoon,fk,true
+Wool T Shirt,ck,true
+Analog Watch - Infantry,ck,true
+Garmin USB Cable,ek,true
+Hunting License,gk,true
+Moose Tag,gk,true
+Confirm Ian's Needs for Licensing,rs,true
+Confirm Bear Restrictions,rs,true
+Harvest Transfer Paperwork,gk,true
+Ian Nikon Binoculars,ik,true
+Ian Leatherman Wave,ik,true
+Ian Muck Boots,ik,false
+Clean 3/4 blocking for cots,up,false
+under cot platform for organzing,up,false
+2x4 with pins on post design plan for platform x2 @ 18"x2',up,false
+food storage solutions for cook tent,up,true
+square frame hanger with carabiner hooks for hanging stuff - center dowl x2,up,true
+550 tighteners (amazon cart),tk,true
+Nuun Hydration Tablets (Caffiene/Non-Caffiene),fk,true
+Chop sticks,fk,false
+MSR Plate x2,fk,true
+Yeti Wine Cup,fk,true
+Lunch box ideas for being on foot,up,false
+Ground Pad - different than space blanket,rs,false
+rain cover for scope,op,true
+Siltarp,sk,true
+tarp poles,sk,true
+center ridge pole,sk,false
+Kestral Drop,ek,true
+Button Batteries for KDrop and Tempe (CR2032),ek,true
+Garmin Tempe Sensor,ek,true
+Bose Sport Ear Buds,ek,true
+1/2 pound of coffee,fk,true
+gold bond stray,dk,false
+straps (need more),bk,true
+Repaired Thermarests,nk,true
+Hot Sauce,fk,true
+Leatherman Wave,pk,true
+Benchmade sharpening stick,pk,true
+three legged stool,pk,true
+OR straps,bk,true
+Tent stakes,sk,true
+550 O-Ring Hangers,bk,true
+Real butter,fk,true
+soft sided cooler (Mtn. Smith),fk,true
+soft cooler foam inserts,up,true
+liner bags for soft cooler,up,true
+6 mil clear plastic pieces,tk,true
+quart paint for table with brush,up,false
+wood blocks with stops for cot,up,false
+cot head rack - design -> execute,up,false
+Greely Permit,gk,true
+Zeiss Champion 10x25 Bino,op,false
+Sketch Book and Pencil,pk,true
+5mm cord - ordered Cascade Rescue 8/10/18,tk,true
+medium cord Tensioners,tk,true
+compression bags,pk,true
+contacts,dk,true
+tooth paste,dk,true
+floss,dk,true
+Kestrel 5000 Meter,ek,true
+Kestrel Wind Vein,ek,true
+Lithium AAA's,ek,true
+QVS 110v Adapter,ek,true
+Kowa 663M Spotting Scope/Case/Digiscope,op,true
+Merino Wool Insoles,pk,true
+XtraTuf Boots,pk,true

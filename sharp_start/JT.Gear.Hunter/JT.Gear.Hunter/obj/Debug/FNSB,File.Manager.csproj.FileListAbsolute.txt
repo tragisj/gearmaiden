@@ -1,0 +1,7 @@
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.exe.config
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.exe
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.pdb
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB,File.Manager.csprojAssemblyReference.cache
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB,File.Manager.csproj.CoreCompileInputs.cache
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.exe
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.pdb

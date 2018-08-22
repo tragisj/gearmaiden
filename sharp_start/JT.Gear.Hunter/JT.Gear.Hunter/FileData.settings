@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="File.Cutter" GeneratedClassName="FileData">
+  <Profiles />
+  <Settings>
+    <Setting Name="Gear" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\projects\tragisj\js101\lists\gearlist.csv</Value>
+    </Setting>
+    <Setting Name="Legend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\projects\tragisj\js101\lists\gearlegend.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

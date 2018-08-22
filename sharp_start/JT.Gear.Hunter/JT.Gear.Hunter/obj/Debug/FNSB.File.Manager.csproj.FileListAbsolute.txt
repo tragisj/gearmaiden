@@ -1,0 +1,14 @@
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.csproj.CoreCompileInputs.cache
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.exe
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.pdb
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.exe.config
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.exe
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\FNSB.File.Manager.pdb
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.csprojAssemblyReference.cache
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\EntityFramework.dll
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\EntityFramework.xml
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.csproj.CopyComplete
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\File.Cutter.Migrations.V6.resources
+D:\projects\tragisj\js101\sharp_start\JT.Gear.Hunter\JT.Gear.Hunter\obj\Debug\FNSB.File.Manager.csproj.GenerateResource.cache
