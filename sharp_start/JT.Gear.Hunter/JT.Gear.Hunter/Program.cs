@@ -32,19 +32,19 @@ namespace File.Cutter
             //or simple:
             //var a = dic["id"];
 
-            var op = gd["personal"].ToList();
+            var op = gd["upgrades"].ToList();
 
             using (var db = new GearContext())
             {
                var gc = new Category();
-                gc.Name = "Personal";
+                gc.Name = "Upgrades";
                 gc.Description =
-                    "personal items - EDC pocket knives, bags, tags, license, keys, flashlights, etc. ";
+                    "Upgrades to camp, process improvements, etc.";
               
                 db.Categories.Add(gc);
                 var result = db.SaveChanges();
 
-                var ci = db.Categories.First(c => c.Name == "Personal");
+                var ci = db.Categories.First(c => c.Name == "Upgrades");
 
                 foreach (var i in op)
                 {

@@ -25,7 +25,7 @@ namespace File.Cutter {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\projects\\tragisj\\js101\\lists\\gearlist.csv")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\projects\\tragisj\\gearmaiden\\lists\\gearlist.csv")]
         public string Gear {
             get {
                 return ((string)(this["Gear"]));
@@ -37,7 +37,7 @@ namespace File.Cutter {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\projects\\tragisj\\js101\\lists\\gearlegend.csv")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\projects\\tragisj\\gearmaiden\\lists\\gearlegend.csv")]
         public string Legend {
             get {
                 return ((string)(this["Legend"]));
