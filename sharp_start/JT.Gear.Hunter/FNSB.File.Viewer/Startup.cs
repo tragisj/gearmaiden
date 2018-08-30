@@ -33,7 +33,6 @@ namespace FNSB.File.Viewer
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             var connection = @"Server=(localdb)\mssqllocaldb;Database=Gear;Trusted_Connection=True;ConnectRetryCount=0";

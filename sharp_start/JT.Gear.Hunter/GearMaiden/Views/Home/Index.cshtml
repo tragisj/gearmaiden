@@ -1,0 +1,24 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using GearMaiden.ViewModels
+
+@model HomeViewModel
+
+
+
+<div class="row text-center text-lg-left">
+    @foreach (var cat in Model.Categories)
+    {
+        <div class="col-sm-3">
+            <div class="img-thumbnail">
+                <img src="images/cat1.jpg" alt="" />
+                <div class="figure-caption">
+                    <h3>
+                        <a asp-controller="Home" asp-action="Details" asp-route-id="@cat.CategoryId">@cat.Name</a>
+                    </h3>
+                    <p>@cat.Description</p>
+                </div>
+            </div>
+        </div>
+    }</div>
+
+
