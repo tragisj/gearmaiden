@@ -19,7 +19,7 @@ namespace GearMaiden.Models
 
         public IEnumerable<Category> GetAllCategories()
         {
-            return _context.Categories;
+            return _context.Categories; 
         }
 
         public Category GetCategoryById(int categoryId)

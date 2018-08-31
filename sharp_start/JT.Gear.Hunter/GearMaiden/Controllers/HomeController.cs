@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Threading.Tasks;
 using GearMaiden.Models;
 using GearMaiden.ViewModels;
@@ -33,9 +34,15 @@ namespace GearMaiden.Controllers
             return View(catViewModel);
         }
 
-        public IActionResult Details()
+        public IActionResult Details(int id)
         {
-            return View();
+
+            ViewBag.Title = "Category Detail";
+            var category = _categoryRespository.GetCategoryById(id);
+            if (category == null)
+                return NotFound();
+
+            return View(category);
         }
     }
 }
