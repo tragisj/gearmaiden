@@ -11,12 +11,13 @@
         <img src="/images/cat1-3.jpg" alt="">
         <div class="caption">
             <h3>
-                <a asp-controller="Home" asp-action="Details" asp-route-id="@cat.CategoryId">@cat.Name</a>
+                <a asp-controller="Gear" asp-action="Index" asp-route-categoryName="@cat.Name"
+                   asp-route-categoryDesc="@cat.Description" asp-route-id="@cat.CategoryId">@cat.Name</a>
             </h3>
-            <p>@cat.Description</p>
+            @*<p>@cat.Description</p>*@
         </div>
     </div>
-</div>
+    </div>
 }
 
 

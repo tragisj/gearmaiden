@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using GearMaiden.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GearMaiden.Controllers
@@ -16,18 +17,24 @@ namespace GearMaiden.Controllers
             _gearItemRepository = gearItemRepository;
         }
 
-        public IActionResult Index(string category, int id)
+        public IActionResult Index(string categoryName, string categoryDesc, int id)
         {
             var gearitem = _gearItemRepository.GearItemsByCategoryId(id).OrderBy(g => g.Name);
+
 
             var gearItemViewModel = new GearItemViewModel()
             {
                 GearItems = gearitem.ToList(),
-                Title = category
+                CategoryName = categoryName,
+                CategoryDescription = categoryDesc
             };
 
-
             return View(gearItemViewModel);
+        }
+
+        public IActionResult Details(int gearItemId)
+        {
+            return View();
         }
     }
 }

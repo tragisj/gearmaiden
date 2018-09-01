@@ -28,7 +28,7 @@ namespace GearMaiden.Controllers
             var catViewModel = new HomeViewModel()
             {
                 Categories = categories.ToList(),
-                Title = "My Gear Categories"
+                Title = "Gear Groups"
             };
 
             return View(catViewModel);
@@ -37,7 +37,7 @@ namespace GearMaiden.Controllers
         public IActionResult Details(int id)
         {
 
-            ViewBag.Title = "Category Detail";
+            ViewBag.Title = "Gear Group Detail";
             var category = _categoryRespository.GetCategoryById(id);
             if (category == null)
                 return NotFound();
